@@ -1,0 +1,10 @@
+* cqlcl
+
+A Cassandra native protocol client in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/AeroNotix/cqlcl.git   |
+| commit  | 0c6af10  |
+| systems | cqlcl |
+|---------+-------------------------------------------|
+
